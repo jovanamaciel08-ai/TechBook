@@ -1,0 +1,5 @@
+Etapas de Desenvolvimento:
+- Login
+- Implantar cadastro
+- Desenvolver página
+- Integrar sistema
